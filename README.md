@@ -3,8 +3,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/VynlenceTech/NFT_Project.git
-cd NFT_Project
+git clone https://github.com/marcustnova/nft_project.git
+cd nft_project
 ```
 
 ### 2. Install Dependencies
